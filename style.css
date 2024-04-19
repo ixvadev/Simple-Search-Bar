@@ -19,7 +19,7 @@ body{
   height: 20px;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #f4a709;
+  color: #fff;
 }
 
 .searchTerm:focus{
