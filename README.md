@@ -1,1 +1,2 @@
-<h1>Simple Search Bar</h1>
+<h3>Simple Search Bar</h3>
+<h3>Oddiy qidiruv paneli</h3>
