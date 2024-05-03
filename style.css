@@ -5,11 +5,13 @@ body{
   font-family: 'Open Sans', sans-serif;
 }
 
+
 .search {
   width: 100%;
   position: relative;
   display: flex;
 }
+
 
 .searchTerm {
   width: 100%;
@@ -21,7 +23,6 @@ body{
   outline: none;
   color: #fff;
 }
-
 
 
 .searchTerm:focus{
